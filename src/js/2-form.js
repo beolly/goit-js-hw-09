@@ -25,7 +25,6 @@ form.addEventListener('input', event => {
   }
 });
 
-// Обробка submit
 form.addEventListener('submit', event => {
   event.preventDefault();
 
