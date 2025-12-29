@@ -1,7 +1,7 @@
 
-import SimpleLightbox from "simplelightbox";
+// import SimpleLightbox from "simplelightbox";
 
-import "simplelightbox/dist/simple-lightbox.min.css";
+// import "simplelightbox/dist/simple-lightbox.min.css";
 const images = [
   {
     preview: "https://picsum.photos/id/1011/300/200",
